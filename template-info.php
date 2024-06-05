@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Template Info in Admin Bar
-Description: A plugin that allows administrators to see templates and 
+Description: A plugin that allows administrators to see templates and themes folder
 Version: 1.0
-Author: j26a90
+Author: Abelardo Recalde
 Author URI: https://github.com/AbelardoR/template-info
 License: GPL2
 */
