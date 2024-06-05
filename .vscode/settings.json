@@ -1,0 +1,13 @@
+{
+    "commentTranslate.targetLanguage": "uk",
+    "commentTranslate.multiLineMerge": true,
+    "commentTranslate.hover.enabled": false,
+    "docwriter.style": "Auto-detect",
+    "docwriter.hotkey.windows": "Ctrl + .",
+    "intelephense.diagnostics.undefinedProperties": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedConstants": false,
+    "commentTranslate.source": "Google"
+}
