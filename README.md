@@ -67,7 +67,7 @@ git clone https://github.com/AbelardoR/template-info
 ```
 ## License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from GNU Version 3. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/AbelardoR" target="_blank">AbelardoR</a>
